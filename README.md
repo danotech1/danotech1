@@ -15,7 +15,7 @@
   
 - ⚡ Favourite quote: Think twice, code once.
 
-- 💬 Ask me about anything [here](https://github.com/danotech1/danotech/issues)
+- 💬 Ask me about anything [here](https://github.com/danotech1/danotech1/issues)
 
 <img  height="150" width="275" alt="" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz7dVHhWQzkEyXFZCXeqRolrN5yNmu18QQZYhFW-g4SaS7TfAVW0qRRJh0D00zT1a7_l8-z-vgnqpA2NRh5TSckF1FCz_l2R0noExojczKOp6xKe1ExK3G0BxHO5B8IoorXQET93-z31kKqo01_vn0_AeJvvA_IDdhc8kmmbwoNMseO2hxUFFkU9U25vcV/s320/coder.gif" />
 
@@ -32,7 +32,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 
-| <a href="https://github.com/danotech/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danotech1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Danotech's github stats" /></a> | <a href="https://github.com/danotech/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danotech1&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/danotech1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danotech1&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Danotech1's github stats" /></a> | <a href="https://github.com/danotech1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danotech1&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">Connect with me:</h3>
